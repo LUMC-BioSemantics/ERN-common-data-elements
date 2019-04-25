@@ -3,7 +3,11 @@
 
 # The set of common data elements for rare diseases registration
 
-_An illustration of the model can be found [here](https://www.draw.io/?state=%7B%22ids%22:%5B%221GgkGDr2fBJwKmZPx_sVwHWvgUOOgfelD%22%5D,%22action%22:%22open%22,%22userId%22:%22110965774220386560307%22%7D#G1GgkGDr2fBJwKmZPx_sVwHWvgUOOgfelD). This is version 2.0. License CC0._
+_ The figure below shows an illustration of the complete common data elements RDF model
+
+<p align="center"> 
+    <img src="https://github.com/LUMC-BioSemantics/ERN-common-data-elements/blob/wiki/complete_data_model_v2.0.png">
+</p>
 
 This model is based on [the set of common data elements for rare diseases registration](http://www.erare.eu/sites/default/files/SetCommonData-EU%20RD%20Platform_CDS%20_final.pdf) recommended by the European commission joint research centre. There are 16 data elements: ‘Pseudonym’, ‘Date of Birth’, ‘Sex’, ‘Patient’s status’, ‘Date of death’, ‘First contact with specialised centre’, ‘Age at onset’, Age at diagnosis’, ‘Diagnosis of the rare disease’, ‘Genetic diagnosis’, ‘Undiagnosed case’, ‘Agreement to be contacted for research purposes’, ‘Consent to the reuse of data’, ’Biological sample’, ‘Link to a biobank’, ‘Classification of functioning/disability’.
 
