@@ -1,3 +1,5 @@
+# Semantic data model of the ERN common data elements to make rare disease registry data Interoperable (the 'I' in FAIR)
+
 # Description of the ERN-common-data-elements rdf data model:
 
 
