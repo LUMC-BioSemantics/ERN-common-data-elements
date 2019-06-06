@@ -98,6 +98,7 @@ Notes:
 - For the 'Classification of functioning/disability' (Patient’s disability profile according to International Classification of Functioning and Disability (ICF): Disability profile / Score. Open question: who calculates this score (the doctor or the patient)? 
 - Here, we have only modelled the final score and not all the subscores.
 - Here, We defined an instance describing the ‘Activity’ of collecting the score.
+- todo: take a look at the domain-range of score-wasGeneratedBY-questionnaire
 
 <p align="center"> 
     <img src="https://github.com/LUMC-BioSemantics/ERN-common-data-elements/blob/wiki/10_Disability.png">
