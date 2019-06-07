@@ -5,6 +5,9 @@ Here, we present a semantic data model of [the set of common data elements for r
 
 The semantic data model is presented below in 11 modules describing the different 16 data elements. Central to each module is the 'person'. Each module has in addition different characteristics assigned to the person.
 
+## Feedback
+Your feedback is more than welcome it will help us improve our semantic data model. Please use [github issues](https://github.com/LUMC-BioSemantics/ERN-common-data-elements/issues) to provide your feedback. If you are new to github please see [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) to know more about github issues.   
+
 ## Module: person
 
 <p align="center"> 
