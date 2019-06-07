@@ -8,7 +8,7 @@ The semantic data model is presented below in 11 modules describing the differen
 ## Module: person
 
 <p align="center"> 
-    <a href="https://drive.google.com/open?id=1HXyAfde8vmhn6yPiwlm37FpysIt9YqOS">
+    <a href="https://drive.google.com/open?id=1HXyAfde8vmhn6yPiwlm37FpysIt9YqOS" target="_blank">
         <img src="https://github.com/LUMC-BioSemantics/ERN-common-data-elements/blob/wiki/0_Patient_role.png"> 
     </a>
 </p>
