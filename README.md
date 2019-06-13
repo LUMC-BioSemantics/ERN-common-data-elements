@@ -16,6 +16,7 @@ Your feedback is more than welcome it will help us improve our semantic data mod
     </a>
 </p>
 
+[Link to ShEx (shape expression)](https://raw.githubusercontent.com/LUMC-BioSemantics/ERN-common-data-elements/master/shex/personModule)
 
 ## Module: Pseudonym
 
